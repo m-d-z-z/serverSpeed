@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("ServerSpeed v0.0.4 by @Undefiner (mdzz@mdzz.moe)")
+	fmt.Println("ServerSpeed v0.0.4 by @Undefiner (mdzz@mdzz.moe)\n机场技术支持、开发可以找我")
 	if len(os.Args) != 3 {
 		help()
 		return
